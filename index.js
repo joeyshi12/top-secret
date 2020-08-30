@@ -9,7 +9,7 @@ function setup() {
     canvas = createCanvas(windowWidth, windowHeight, WEBGL);
     canvas.parent("sketch-holder");
     textFont(inconsolata);
-    textSize(width / 7);
+    textSize(120);
     textAlign(CENTER, CENTER);
 }
 
